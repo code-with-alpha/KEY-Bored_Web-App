@@ -24,7 +24,7 @@ const wpmTag = document.querySelector(".wpm span")
 const cpmTag = document.querySelector(".cpm span")
 
 let timer;
-let maxTime = 5;
+let maxTime = 15;
 let timeLeft = maxTime;
 let charIndex = mistakes = isTyping = 0;
 document.querySelector('.maxTime').innerText = maxTime;
