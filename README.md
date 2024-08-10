@@ -2,6 +2,10 @@
 
 KEYBORED is a web-based typing tool built with HTML, CSS, and JavaScript. It generates a random paragraph for the user to type, and tracks their progress with real-time statistics on time left, mistakes, words per minute (WPM), and characters per minute (CPM).
 
+## Preview
+Live Preview: https://keybored-codewithalpha.vercel.app
+<img src="./src/assets/images/preview.png">
+
 ## Features
 
 - Randomly generated paragraphs for typing.
@@ -17,7 +21,7 @@ KEYBORED is a web-based typing tool built with HTML, CSS, and JavaScript. It gen
 
 1. Clone the Repository:
 ```bash 
-git clone https://github.com/code-with-alpha/
+git clone https://github.com/code-with-alpha/KEY-BORED_Web-App`
 ```
 2. Open the `index.html` in a web browser (Safari, Chrome, e.t.c).
 3. A random paragraph will be generated for you to type. Start typing!
@@ -34,4 +38,4 @@ License
 
 ### Socials
 - YouTube: https://youtube.com/@codewithalphadotcom
-- Link to the Post: 
+- Link to the Post: https://www.linkedin.com/posts/krrishkumar_keybored-typingtutor-html-activity-7227978461062004736-lIcI?utm_source=share&utm_medium=member_desktop
